@@ -6,7 +6,7 @@ I can easily say I have very optimistic and amusing kind of personality. When it
 
 [![Pola's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolaJedrecka&theme=synthwave)](https://github.com/PolaJedrecka/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PolaJedrecka&layout=compact)](https://github.com/PolaJedrecka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolaJedrecka&layout=compact&theme=synthwave)](https://github.com/PolaJedrecka/github-readme-stats)
 <!--
 **PolaJedrecka/PolaJedrecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
