@@ -5,6 +5,8 @@ I am Pola and I am passionate about programming both in backend and frontend (a 
 I can easily say I have very optimistic and amusing kind of personality. When it comes to problem solving, I definitely prefer positive approach. Being negative does not satisfy me at all. Due to me being new in programming world (I am here only for 1 year!), I'm staying open to learn new technologies, approaches etc. Now I'm programming using mostly .Net and React.
 
 [![Pola's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolaJedrecka&theme=synthwave)](https://github.com/PolaJedrecka/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?PolaJedrecka&theme=synthwave&layout=compact)](https://github.com/PolaJedrecka/github-readme-stats)
 <!--
 **PolaJedrecka/PolaJedrecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
